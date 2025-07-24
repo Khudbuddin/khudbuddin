@@ -2,7 +2,14 @@
 
 ## ✅ HTML Boilerplate
 
-''' html<!DOCTYPE html> <html lang="en"> <head> </head> <body> </body> </html> '''
+'''html
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+</head>
+<body>
+</body>
+</html>'''
 
 🏷️ Common HTML Tags
 
