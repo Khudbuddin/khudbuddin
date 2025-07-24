@@ -2,7 +2,7 @@
 
 ## ✅ HTML Boilerplate
 
-'''html
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head> 
@@ -10,7 +10,7 @@
 <body>
 </body>
 </html>
-'''
+```
 
 🏷️ Common HTML Tags
 
