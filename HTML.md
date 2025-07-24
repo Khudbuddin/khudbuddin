@@ -9,7 +9,8 @@
 </head>
 <body>
 </body>
-</html>'''
+</html>
+'''
 
 🏷️ Common HTML Tags
 
