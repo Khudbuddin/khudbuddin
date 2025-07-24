@@ -41,18 +41,21 @@ Unordered List (ul, li)
 <ul>
   <li>Item One</li>
   <li>Item Two</li>
-</ul>```
+</ul>
+```
 
 Ordered List (ol, li)
 <ol>
   <li>First</li>
   <li>Second</li>
 </ol>
+
 ```html
 <ol>
   <li>First</li>
   <li>Second</li>
-</ol>```
+</ol>
+```
 
 ✏️ Forms and Inputs
 
