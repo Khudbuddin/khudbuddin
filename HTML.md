@@ -2,41 +2,40 @@
 
 ## ✅ HTML Boilerplate
 
-<!DOCTYPE html>
-<html>
-  <head>
-  
-  </head>
-  <body>
-    
-  </body>
-</html>
+'<!DOCTYPE html>' <br>
+'<html> '<br>
+ ' <head>' <br>
+  '</head> '<br>
+  '<body>' <br>
+  '</body> '<br>
+'</html>'
 
 🏷️ Common HTML Tags
 
-🔹 Headings (<h1> to <h6>)
+🔹 Headings (h1 to h6)
 <h1>Main Heading</h1>
 <h2>Subheading</h2>
-<h3>Section Title</h3>
+<h3>Section Title</h3><hr>
 
-🔹 Paragraphs (<p>)
-<p>This is a paragraph of text.</p>
+🔹 Paragraphs 
+<p>This is a paragraph of text.</p><hr>
 
-🔹 Links (<a>)
-<a href="https://www.example.com">Visit Example</a>
+🔹 Links 
+<a href="https://www.example.com">Visit Example</a><hr>
 
-🔹 Images (<img>)
-<img src="image.jpg" alt="Description of image">
+🔹 Images 
+<img src="image.jpg" alt="Description of image"><hr>
 
 🔹 Lists
 
-Unordered List (<ul>, <li>)
+Unordered List (ul, li)
+
 <ul>
   <li>Item One</li>
   <li>Item Two</li>
 </ul>
 
-Ordered List (<ol>, <li>)
+Ordered List (ol, li)
 <ol>
   <li>First</li>
   <li>Second</li>
