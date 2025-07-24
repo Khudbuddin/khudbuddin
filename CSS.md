@@ -1,4 +1,4 @@
-# 🎯 CSS Cheat Sheet
+# 🎯 CSS Sheet
 
 ---
 
