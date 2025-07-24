@@ -1,11 +1,11 @@
-# 🔵 HTML Cheat Sheet
+# 🔵 HTMl Activities
 
 ## ✅ HTML Boilerplate
 
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My HTML Page</title>
+  
   </head>
   <body>
     
@@ -13,6 +13,7 @@
 </html>
 
 🏷️ Common HTML Tags
+
 🔹 Headings (<h1> to <h6>)
 <h1>Main Heading</h1>
 <h2>Subheading</h2>
@@ -28,6 +29,7 @@
 <img src="image.jpg" alt="Description of image">
 
 🔹 Lists
+
 Unordered List (<ul>, <li>)
 <ul>
   <li>Item One</li>
@@ -41,6 +43,7 @@ Ordered List (<ol>, <li>)
 </ol>
 
 ✏️ Forms and Inputs
+
 <form action="/submit" method="post">
   <input type="text" placeholder="Your name">
   <input type="email" placeholder="Your email">
@@ -53,6 +56,7 @@ Ordered List (<ol>, <li>)
 </form>
 
 📦 Semantic Tags
+
 <header>Header Content</header>
 <nav>Navigation Menu</nav>
 <main>Main Content</main>
@@ -61,6 +65,7 @@ Ordered List (<ol>, <li>)
 <footer>Footer Info</footer>
 
 📊 Tables
+
 <table>
   <tr>
     <th>Name</th>
@@ -73,6 +78,7 @@ Ordered List (<ol>, <li>)
 </table>
 
 🔤 Common Attributes
+
 href → URL for links
 
 src → Image/video source
