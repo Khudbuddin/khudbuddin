@@ -2,13 +2,13 @@
 
 ## ✅ HTML Boilerplate
 
-'<!DOCTYPE html>' <br>
-'<html> '<br>
- ' <head>' <br>
-  '</head> '<br>
-  '<body>' <br>
-  '</body> '<br>
-'</html>'
+' <!DOCTYPE html> '<br>
+'<html>' <br>
+'<head>'  <br>
+'</head>' <br>
+'<body>' <br>
+'</body>' <br>
+'</html>' <br>
 
 🏷️ Common HTML Tags
 
