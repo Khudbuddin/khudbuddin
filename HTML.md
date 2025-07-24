@@ -2,7 +2,7 @@
 
 ## ✅ HTML Boilerplate
 
-<pre>''' html<!DOCTYPE html> <html lang="en"> <head> </head> <body> </body> </html> '''</pre>
+''' html<!DOCTYPE html> <html lang="en"> <head> </head> <body> </body> </html> '''
 
 🏷️ Common HTML Tags
 
