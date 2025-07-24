@@ -37,14 +37,26 @@ Unordered List (ul, li)
   <li>Item Two</li>
 </ul>
 
+```html
+<ul>
+  <li>Item One</li>
+  <li>Item Two</li>
+</ul>```
+
 Ordered List (ol, li)
 <ol>
   <li>First</li>
   <li>Second</li>
 </ol>
+```html
+<ol>
+  <li>First</li>
+  <li>Second</li>
+</ol>```
 
 ✏️ Forms and Inputs
 
+```html
 <form action="/submit" method="post">
   <input type="text" placeholder="Your name">
   <input type="email" placeholder="Your email">
@@ -55,6 +67,7 @@ Ordered List (ol, li)
   </select>
   <button type="submit">Submit</button>
 </form>
+```
 
 📦 Semantic Tags
 
@@ -65,6 +78,14 @@ Ordered List (ol, li)
 <article>Article Content</article>
 <footer>Footer Info</footer>
 
+```html
+<header>Header Content</header>
+<nav>Navigation Menu</nav>
+<main>Main Content</main>
+<section>Section of Page</section>
+<article>Article Content</article>
+<footer>Footer Info</footer>
+```
 📊 Tables
 
 <table>
@@ -77,6 +98,19 @@ Ordered List (ol, li)
     <td>25</td>
   </tr>
 </table>
+
+```html
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Alice</td>
+    <td>25</td>
+  </tr>
+</table>
+```
 
 🔤 Common Attributes
 
