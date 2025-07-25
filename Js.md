@@ -258,4 +258,5 @@ array.splice(start[, deleteCount[, item1[, item2[, ...]]]])
 .deleteCount (Optional): The number of elements to remove from the start index. If omitted, all elements from start to the end of the array will be removed.
 
 .item1, item2, ... (Optional): The elements to add to the array, starting at the start index. These elements are inserted after any elements that were removed.
+
 ---
