@@ -260,3 +260,83 @@ array.splice(start[, deleteCount[, item1[, item2[, ...]]]])
 .item1, item2, ... (Optional): The elements to add to the array, starting at the start index. These elements are inserted after any elements that were removed.
 
 ---
+
+## 🔸 Objects
+
+### ✅ 1. Create a Student Object with name,age,and course
+
+```js
+const student = {
+  name: "Alice",
+  age: 21,
+  course: "Computer Science"
+};
+```
+
+### ✅ 2. Access Object Properties
+
+🔹 Dot Notation:
+
+```js
+console.log(student.name);   // Output: Alice
+console.log(student.age);    // Output: 21
+```
+
+🔹 Bracket Notation:
+
+```js
+console.log(student["course"]); // Output: Computer Science
+```
+
+### ✅ 3. Destructure Object Properties into Variables
+
+```js
+const { name, age, course } = student;
+console.log(name);   // Alice
+console.log(age);    // 21
+console.log(course); // Computer Science
+```
+
+### ✅ 4. Loop Over Object Keys Using for...in
+
+```js
+for (let key in student) {
+  console.log(${key}: ${student[key]});
+}
+```
+Output:
+```js
+name: Alice
+age: 21
+course: Computer Science
+```
+## 🔸 Mini Task
+
+### 1.Creae an of student objects:
+
+```js
+const student = [
+{name:"Alice",age:22,course:"JS"},
+{name:"Bob",age:20,course:"HTML"}
+];
+```
+### 2.Write a function to return a list of names from the array:
+
+ ```js
+function names(student){
+  return student.filter(item => 'name' in item) .map(item => item.name)
+}
+let name= names(student);
+console.log(name);
+ ```
+
+ ### 3.Write a function to filter students aged 21 and above:
+
+ ```js
+function filterage(student){
+  return student.filter(s => s.age >= 21);
+}
+let adults= filterage(student);
+console.log(adults);
+
+ ```
