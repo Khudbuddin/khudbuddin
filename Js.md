@@ -13,7 +13,7 @@
 .Re-declaration: Not allowed within the same scope; attempting to redeclare a let variable will result in a SyntaxError. 
 
 ```js
-let  count = 10; // Declaring a variable 'count' with an initial value
+ let  count = 10; // Declaring a variable 'count' with an initial value
 console.log(count); // Output: 10
 
 count = 25; // Reassigning a new value to 'count'
@@ -244,7 +244,7 @@ console.log(students);        // ["Ali", "Sara", "Zainab", "Mohammed", "Yasir"]
 students.splice(1, 1);        // Remove 1 item at index 1
 console.log(students);        // ["Ali", "Zainab", "Mohammed", "Yasir"]
 ```
-### slice:
+### slice: 
 splice is used to add,remove and replacing elements.
 
 ### syntax:
